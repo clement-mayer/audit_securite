@@ -29,7 +29,7 @@ PythonProject/
 ## Installation
 
 ### 1.Cloner le projet
-git clone [https://github.com/clement-mayer/audit_securite.git](https://github.com/votre-utilisateur/audit-securite.git)
+git clone [https://github.com/clement-mayer/audit_securite.git](https://github.com/clement-mayer/audit_securite.git)
 cd audit-securite
 
 ### 2.Créer un environnement virtuel
