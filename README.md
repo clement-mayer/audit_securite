@@ -17,6 +17,7 @@ Ce projet est un outil en ligne de commande (CLI) développé en Python. Il perm
 
 ## Arborescence du projet
 
+```text
 PythonProject/
 ├── audit_securite/
 │   ├── __init__.py
@@ -24,7 +25,7 @@ PythonProject/
 ├── .gitignore           # Exclusion du venv et des caches
 ├── requirements.txt     # Dépendances (typer, certifi)
 └── setup.py             # Configuration d'installation
-
+```
 ## Installation
 
 ### 1.Cloner le projet
